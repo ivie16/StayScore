@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-from sklearn.utils import column_or_1d
+#from sklearn.utils import column_or_1d
 
 #import helper
 
